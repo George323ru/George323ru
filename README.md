@@ -4,8 +4,8 @@
 - gusev.georgy@mail.ru
 - Telegram - @GeorgeJ
 
-### Умею работать с: 🛠️
-- **Currently working with:** 
+### Мои скиллы 🛠️
+- **Умею работать с:** 
   <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
   <img align="center" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png" />
   <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
